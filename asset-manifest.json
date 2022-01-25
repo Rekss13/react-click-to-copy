@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-click-to-copy/static/css/main.55d0d049.css",
+    "main.js": "/react-click-to-copy/static/js/main.82e85138.js",
+    "static/js/787.bc34f3ff.chunk.js": "/react-click-to-copy/static/js/787.bc34f3ff.chunk.js",
+    "static/media/SourceSansPro-normal-400-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-400-latin.01f8c55c6b9a8fd49a6a.woff",
+    "static/media/SourceSansPro-normal-600-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-600-latin.703d62cf46a33b0143b2.woff",
+    "static/media/SourceSansPro-normal-700-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-700-latin.5b13b92baac874a5b8ad.woff",
+    "static/media/SourceSansPro-italic-400-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-italic-400-latin.23898e6c5e56ff884231.woff",
+    "static/media/SourceSansPro-normal-200-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-200-latin.884aabd15e9794827518.woff",
+    "static/media/SourceCodePro-normal-400-latin.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-400-latin.1190c3e8ceb086a36830.woff",
+    "static/media/SourceCodePro-normal-700-latin.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-700-latin.74cc39179ab542000979.woff",
+    "static/media/SourceCodePro-normal-600-latin.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-600-latin.bc80e0e0727e601063ea.woff",
+    "static/media/SourceSansPro-normal-400-cyrillic.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-400-cyrillic.e1c8bd6ddf897f6240a9.woff",
+    "static/media/SourceSansPro-normal-600-cyrillic.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-600-cyrillic.e572329b532b9e122104.woff",
+    "static/media/SourceSansPro-normal-700-cyrillic.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-700-cyrillic.cb6d9e14375310632a06.woff",
+    "static/media/SourceSansPro-normal-200-cyrillic.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-200-cyrillic.994f09170f5fba82f4c3.woff",
+    "static/media/SourceCodePro-normal-400-cyrillic.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-400-cyrillic.3b5c520792a42878ffa8.woff",
+    "static/media/SourceCodePro-normal-600-cyrillic.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-600-cyrillic.68141958da63b717b66d.woff",
+    "static/media/SourceCodePro-normal-700-cyrillic.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-700-cyrillic.85fb2c4eba6b88cea024.woff",
+    "index.html": "/react-click-to-copy/index.html",
+    "main.55d0d049.css.map": "/react-click-to-copy/static/css/main.55d0d049.css.map",
+    "main.82e85138.js.map": "/react-click-to-copy/static/js/main.82e85138.js.map",
+    "787.bc34f3ff.chunk.js.map": "/react-click-to-copy/static/js/787.bc34f3ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55d0d049.css",
+    "static/js/main.82e85138.js"
+  ]
+}
