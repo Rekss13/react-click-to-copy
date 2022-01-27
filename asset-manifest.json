@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-click-to-copy/static/css/main.55d0d049.css",
-    "main.js": "/react-click-to-copy/static/js/main.82e85138.js",
+    "main.js": "/react-click-to-copy/static/js/main.a08ad794.js",
     "static/js/787.bc34f3ff.chunk.js": "/react-click-to-copy/static/js/787.bc34f3ff.chunk.js",
     "static/media/SourceSansPro-normal-400-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-400-latin.01f8c55c6b9a8fd49a6a.woff",
     "static/media/SourceSansPro-normal-600-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-600-latin.703d62cf46a33b0143b2.woff",
@@ -20,11 +20,11 @@
     "static/media/SourceCodePro-normal-700-cyrillic.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-700-cyrillic.85fb2c4eba6b88cea024.woff",
     "index.html": "/react-click-to-copy/index.html",
     "main.55d0d049.css.map": "/react-click-to-copy/static/css/main.55d0d049.css.map",
-    "main.82e85138.js.map": "/react-click-to-copy/static/js/main.82e85138.js.map",
+    "main.a08ad794.js.map": "/react-click-to-copy/static/js/main.a08ad794.js.map",
     "787.bc34f3ff.chunk.js.map": "/react-click-to-copy/static/js/787.bc34f3ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.55d0d049.css",
-    "static/js/main.82e85138.js"
+    "static/js/main.a08ad794.js"
   ]
 }
