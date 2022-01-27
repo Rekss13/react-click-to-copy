@@ -1,8 +1,8 @@
 {
   "name": "react-click-to-copy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
-  "homepage": "http://rekss13.github.io/react-click-to-copy/",
+  "homepage": "http://Rekss13.github.io/react-click-to-copy/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
