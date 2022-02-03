@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-click-to-copy/static/css/main.55d0d049.css",
-    "main.js": "/react-click-to-copy/static/js/main.888448e2.js",
+    "main.css": "/react-click-to-copy/static/css/main.62d9d6ca.css",
+    "main.js": "/react-click-to-copy/static/js/main.c68aac81.js",
     "static/media/SourceSansPro-normal-400-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-400-latin.01f8c55c6b9a8fd49a6a.woff",
     "static/media/SourceSansPro-normal-600-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-600-latin.703d62cf46a33b0143b2.woff",
     "static/media/SourceSansPro-normal-700-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-700-latin.5b13b92baac874a5b8ad.woff",
@@ -18,11 +18,11 @@
     "static/media/SourceCodePro-normal-600-cyrillic.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-600-cyrillic.68141958da63b717b66d.woff",
     "static/media/SourceCodePro-normal-700-cyrillic.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-700-cyrillic.85fb2c4eba6b88cea024.woff",
     "index.html": "/react-click-to-copy/index.html",
-    "main.55d0d049.css.map": "/react-click-to-copy/static/css/main.55d0d049.css.map",
-    "main.888448e2.js.map": "/react-click-to-copy/static/js/main.888448e2.js.map"
+    "main.62d9d6ca.css.map": "/react-click-to-copy/static/css/main.62d9d6ca.css.map",
+    "main.c68aac81.js.map": "/react-click-to-copy/static/js/main.c68aac81.js.map"
   },
   "entrypoints": [
-    "static/css/main.55d0d049.css",
-    "static/js/main.888448e2.js"
+    "static/css/main.62d9d6ca.css",
+    "static/js/main.c68aac81.js"
   ]
 }
