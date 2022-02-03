@@ -1,10 +1,5 @@
 import './App.css';
-import { hashtags } from './hashtags';
-import CopyButton from './CopyButton';
-
-const copyButtons = hashtags.map((element, index) => {
-    return <CopyButton buttonNumber={index} copyText={element} key={index.toString()}/>
-});
+import TwoCopyButtons from './components/TwoCopyButtons';
 
 function App() {
     return (
@@ -13,7 +8,7 @@ function App() {
                 <h1>Click buttons to copy</h1>
             </header>
             <main className="App-main">
-                {copyButtons}
+                <TwoCopyButtons />
             </main>
         </div>
     );
