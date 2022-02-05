@@ -9,6 +9,8 @@ const RightCopyButton = ({ buttonNumber, copyText }) => {
     const indexString = buttonNumber > 99 ? `${buttonNumber + 1}` : buttonNumber < 9 ? `00${buttonNumber + 1}` : `0${buttonNumber + 1}`;
     const tooltipText = `New hashtags part ${buttonNumber + 1}, it's copied!`;
 
+    const getCountry = buttonNumber < 175 ? "🇷🇺" : "🇺🇦🇸";
+
     return (
         <div className="App-button">
             <CopyToClipboard text={copyText} tooltip={tooltipText}>
@@ -18,7 +20,7 @@ const RightCopyButton = ({ buttonNumber, copyText }) => {
                     iconPosition="right"
                     flat={isFlat}
                     onClick={() => setFlat(!isFlat)}
-                ># num {indexString}</BrandButton>
+                >{getCountry} #{indexString}</BrandButton>
             </CopyToClipboard>
         </div>
     );
