@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-click-to-copy/static/css/main.62d9d6ca.css",
-    "main.js": "/react-click-to-copy/static/js/main.1c401454.js",
+    "main.js": "/react-click-to-copy/static/js/main.6d26b28b.js",
     "static/media/SourceSansPro-normal-400-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-400-latin.01f8c55c6b9a8fd49a6a.woff",
     "static/media/SourceSansPro-normal-600-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-600-latin.703d62cf46a33b0143b2.woff",
     "static/media/SourceSansPro-normal-700-latin.woff": "/react-click-to-copy/static/media/SourceSansPro-normal-700-latin.5b13b92baac874a5b8ad.woff",
@@ -19,10 +19,10 @@
     "static/media/SourceCodePro-normal-700-cyrillic.woff": "/react-click-to-copy/static/media/SourceCodePro-normal-700-cyrillic.85fb2c4eba6b88cea024.woff",
     "index.html": "/react-click-to-copy/index.html",
     "main.62d9d6ca.css.map": "/react-click-to-copy/static/css/main.62d9d6ca.css.map",
-    "main.1c401454.js.map": "/react-click-to-copy/static/js/main.1c401454.js.map"
+    "main.6d26b28b.js.map": "/react-click-to-copy/static/js/main.6d26b28b.js.map"
   },
   "entrypoints": [
     "static/css/main.62d9d6ca.css",
-    "static/js/main.1c401454.js"
+    "static/js/main.6d26b28b.js"
   ]
 }
